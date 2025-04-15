@@ -1,4 +1,4 @@
-# Solicita ao usuário a quantidade de termos
+# Peça ao usuário um número N e gere os primeiros N termos da sequência de Fibonacci usando um laço. Exemplo: 0, 1, 1, 2, 3, 5, 8....
 n = int(input("Digite quantos número você quer da sequência de Fibonacci: "))
 
 if n <= 0:

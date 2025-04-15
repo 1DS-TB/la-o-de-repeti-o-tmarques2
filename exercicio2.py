@@ -8,4 +8,4 @@ if N > 0:
         i += 1
     print(f"a soma de todos os os números de 1 até {N} é {soma}.")
 else:
-    print("digite um número inteiro positivo.")
+    print("o número deve ser positivo.")
